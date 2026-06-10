@@ -1,0 +1,10 @@
+The dataset used in this project is stored and managed in Google BigQuery 
+
+
+You can access the source data or reference project here:
+
+https://console.cloud.google.com/bigquery?project=event-test-487817&ws=!1m12!1m5!4m3!1sevent-test-487817!2slisting!3slisting!23sTREE_NODE_SELECTION!1m5!4m3!1sevent-test-487817!2scalender!3sairbnb_analysis!23sTREE_NODE_SELECTION
+
+https://console.cloud.google.com/bigquery?project=event-test-487817&ws=!1m12!1m5!4m3!1sevent-test-487817!2slisting!3slisting!23sTREE_NODE_SELECTION!1m5!4m3!1sevent-test-487817!2scalender!3scalender!23sTREE_NODE_SELECTION
+
+https://console.cloud.google.com/bigquery?project=event-test-487817&ws=!1m12!1m5!4m3!1sevent-test-487817!2slisting!3slisting!23sTREE_NODE_SELECTION!1m5!4m3!1sevent-test-487817!2scalender!3scalender!23sTREE_NODE_SELECTION
